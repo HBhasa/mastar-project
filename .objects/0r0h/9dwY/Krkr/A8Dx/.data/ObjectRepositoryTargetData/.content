@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="XfU7wjVqW0qbNYdoEh0GNw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/invoices/Details/21" CVScreenId="0a20b05d-6c0a-4a97-8366-49b56b319531" CvElementArea="110, 874, 156, 43" CvTextArea="167, 889, 40, 16" CvTextArgument="Save" CvType="Button" DesignTimeRectangle="111, 875, 153, 40" DesignTimeScaleFactor="1.25" ElementType="Button" FullSelectorArgument="&lt;ctrl name='Order confirmation' role='document' /&gt;&lt;ctrl name='Save' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Order confirmation' role='document' /&gt;&lt;ctrl name='Save' role='push button' automationid='' check:fulltext='Save' /&gt;" Guid="1b60ef46-3cad-42b3-bff4-6d580830501e" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='Order confirmation and 1 more page - Profile 1 - Microsoft​ Edge' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="0a20b05d-6c0a-4a97-8366-49b56b319531" DesignTimeRectangle="273, 875, 153, 40" ElementType="Button" FullSelectorArgument="&lt;ctrl name='Order confirmation' role='document' /&gt;&lt;ctrl name='Cancel' role='push button' /&gt;" FuzzyAccuracy="0.98" FuzzySelectorArgument="&lt;ctrl name='Order confirmation' role='document' /&gt;&lt;ctrl name='Cancel' role='push button' automationid='' check:fulltext='Cancel' /&gt;" Guid="0f5405b5-68f8-464d-91c6-20bbc92c8eb4" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="afdd14f231e8426ebdfa179113860953.png" xmlns="">0hm_neVcTI0WOjvkXNucXwA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

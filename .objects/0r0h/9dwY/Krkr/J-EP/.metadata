@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Print Invoice",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "J-EPn_4XMk652N56xI7bYg",
+  "Reference": "TX8QCcScGUe7oAOLNPWqsA/J-EPn_4XMk652N56xI7bYg",
+  "ParentRef": "TX8QCcScGUe7oAOLNPWqsA/KrkrFiBp40qg0jnXQFkXxQ",
+  "Created": "2025-01-24T19:01:52.3727489Z",
+  "Updated": "2025-01-24T19:01:52.3727489Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

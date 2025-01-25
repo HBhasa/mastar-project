@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Customer Email",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "eN0PJt8lHUOOc_xfUgBEpg",
+  "Reference": "TX8QCcScGUe7oAOLNPWqsA/eN0PJt8lHUOOc_xfUgBEpg",
+  "ParentRef": "TX8QCcScGUe7oAOLNPWqsA/KrkrFiBp40qg0jnXQFkXxQ",
+  "Created": "2025-01-24T19:03:52.8368022Z",
+  "Updated": "2025-01-24T19:03:52.8368022Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

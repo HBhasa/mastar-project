@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge SmartInvoices(4)",
+  "Type": "Screen",
+  "Id": "KrkrFiBp40qg0jnXQFkXxQ",
+  "Reference": "TX8QCcScGUe7oAOLNPWqsA/KrkrFiBp40qg0jnXQFkXxQ",
+  "ParentRef": "TX8QCcScGUe7oAOLNPWqsA/9dwYu5PUNkW2jYmwrWJD7Q",
+  "Created": "2025-01-24T19:01:51.9867151Z",
+  "Updated": "2025-01-24T19:01:51.9867151Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

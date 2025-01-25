@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="tpCXoI7qp0qWOz6e6nurhg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/invoices/Details/21" CVScreenId="e0a10752-3851-4a72-b819-ba79aa579b73" CvTextArea="974, 775, 250, 28" CvTextArgument="hshn1153@gmail.com" CvType="Text" DesignTimeRectangle="974, 775, 250, 28" DesignTimeScaleFactor="1.25" ElementType="Text" Guid="92d560d4-3697-4145-b815-43a2b2d0b44c" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='Order confirmation and 2 more pages - Profile 1 - Microsoft​ Edg*' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="e0a10752-3851-4a72-b819-ba79aa579b73" CvTextArea="782, 776, 185, 22" CvTextArgument="Customer Email:" CvType="Text" DesignTimeRectangle="782, 776, 185, 22" ElementType="Text" Guid="3bc4f125-90c5-4b51-b875-c619bb001307" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="2a4350330ea2808e8fcd2afcbca8ddb2.png" xmlns="">0MBGFSPH0BEec--zOxHY9Pg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
