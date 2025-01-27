@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge SmartInvoices",
+  "Type": "App",
+  "Id": "gHyJqTolFkW1AFGrd2eEiA",
+  "Reference": "TX8QCcScGUe7oAOLNPWqsA/gHyJqTolFkW1AFGrd2eEiA",
+  "Created": "2025-01-26T22:15:31.3804196Z",
+  "Updated": "2025-01-26T22:15:31.3804196Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

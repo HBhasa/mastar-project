@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Ar7ew_1UyEW7XqLUYYCXag" Reference="TX8QCcScGUe7oAOLNPWqsA/vQQVhZKJ1keKWFYNp3jiCQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/Account/Login" CVScreenId="784f9bbd-a301-4f85-858f-922cd618887a" DesignTimeRectangle="666, 639, 587, 57" DesignTimeScaleFactor="1.25" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='Email' tag='INPUT' /&gt;" FuzzyAccuracy="0.98" FuzzySelectorArgument="&lt;webctrl id='Email' tag='INPUT' type='text' class='form-control' placeholder='Enter your email' aaname='' /&gt;" Guid="aea15392-28ba-4a92-bd01-e4601ff047d0" ImageBase64="" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='SmartInvoices' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="784f9bbd-a301-4f85-858f-922cd618887a" DesignTimeRectangle="666, 599, 97, 30" ElementType="Text" FuzzyAccuracy="0.98" FuzzySelectorArgument="&lt;webctrl tag='LABEL' type='' class='' aaname='Username:' check:innerText='Username:' /&gt;" Guid="7cba4ca2-29fe-4e12-8aa7-56c5641e2c29" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="0d33af6efabcbf489931ef56862c25b3.png" xmlns="">0SyKSxUySsUSbrQtiDuHd6w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
